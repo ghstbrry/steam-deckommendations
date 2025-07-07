@@ -1,6 +1,8 @@
 # Steam Deckommendations
 
-I've spent a lot of time researching & sorting through Steam Deck products. Since Steam Deck is gaining popularity lately, I thought it might be helpful to put together a list. I often find myself trying to decide which few products to point people towards. Now, I can just send this list. :3
+Howdy. Since Steam Deck is gaining popularity lately, I thought it might be helpful to put together a list. I often find myself trying to decide which few products to point people towards. Now, I can just send this list. :3
+
+I spent a lot of time researching & sorting through Steam Deck products & modifications when I bought my first one in March 2023. I did quite a few modifications to that LCD model before upgrading as soon as the OLED models came out that November.
 
 ## Notes:
 - I've only listed **products I've personally tried**.
@@ -45,7 +47,7 @@ All products are compatible for both OLED & non-OLED models of Steam Deck unless
 - <u>**Universal Mechanical Mount**</u> [$19.95]<br>
 🟡
   - <u>Type</u>: Functional
-  - <u>Notes</u>: Fits into the mount on Killswitch. Afix whatever to it with the velcro strap or 3M patch. I've still never used the 3M. I bought an enormous pretty heavy external [Anker](#Anker) battery & the velcro holds it no problem.
+  - <u>Notes</u>: Fits into the mount on Killswitch. Afix whatever to it with the velcro strap or 3M patch. I've still never used the 3M. I bought an enormous pretty heavy external [Baseus](#baseus) battery & the velcro holds it no problem.
 
 - <u>**Stick Grips**</u> [$9.95]<br>
 🔴
@@ -80,10 +82,12 @@ All products are compatible for both OLED & non-OLED models of Steam Deck unless
   - <u>Type</u>: Cosmetic | Functional
   - <u>Notes</u>: Highly recommend these. They look cool & they add a super nice sensory feeling to the trackpads/back grips that's completely different depending on what pattern you get.
 
-### Anker
-- <u>[**Power Bank**](www.blah.com)</u> [$XX.XX]<br>
+### Baseus
+- <u>[**Power Bank 65W 20000mAh**](https://www.baseus.com/products/adaman-power-bank-65w-20000mah)</u> [$49.99]<br>
 🟢  
-  - <u>Type</u>: Functional Portable charging
+  - <u>Type</u>: Functional
+  - <u>Notes</u>: Gives a few extra hours of battery life. There's definitely a bunch of external power banks that will work obviously. This is just the one I use & can confirm works.<br><br>
+  I have had some issues with the Deck not wanting to charge with chargers that theoretically should've been able to handle it which is why I figured I'd list this bank that I can 100% confirm works.
 
 ### Mechanism
 - <u>[**Gaming Pillow**](https://getmechanism.com/products/gaming-pillow)</u> [$59.00]<br>
@@ -111,12 +115,6 @@ All products are compatible for both OLED & non-OLED models of Steam Deck unless
   - <u>Type</u>: Functional | Modification
   - <u>Notes</u>: If you get any of the things that require you to open up the Deck, you want this. I still don't have a nice big plastic spatula thing and I curse myself every day for it.
 
-### Sabrent
-- <u>[**Rocket 2230 1TB NVMe SSD**](https://sabrent.com/products/sb-2130-1tb)</u> [$99.99]<br>
-🔴
-  - <u>Type</u>: Functional | Money saver
-  - <u>Notes</u>: One thing you can do to save money is buy the Deck model that comes with the smallest internal storage. It does not have an SSD installed like the other models. At the time I did this, you could save $150 or so by just installing your own. I have no idea what the current state of things is. The other big thing back then was there literally were no 1TB deck models, so you saved money and got more internal storage than you could buy otherwise. YMMV depending on the state of the world, but figured I'd list the exact SSD that worked for me in both LCD & OLED models.
-
 ### JSAUX
 
 JSAUX has a ton of Steam Deck products. Personally, although they're definitely good products, my search always ended up leading me to a seemingly better alternative elsewhere for most things.
@@ -133,3 +131,18 @@ The blackplate adds an extra thermal pad over the CPU area + a larger vent secti
 The big drawback is if you keep your Deck in a case like the Killswitch 100% of the time, you never actually get to enjoy the aesthetic benefits of it lol. I probably wouldn't bother buying it again tbh.
 <br><br>
 **However**, in my opinion, the best part about this isn't the back plate at all, but the extended back button mods. These felt soooo nice. If you have an LCD model, I'd recommend. They were compatible with Killswitch. I wish they sold these separately in an OLED compatible model.
+
+### Sabrent
+- <u>[**Rocket 2230 1TB NVMe SSD**](https://sabrent.com/products/sb-2130-1tb)</u> [$99.99]<br>
+🔴
+  - <u>Type</u>: Functional | Modification
+  - **Outdated**
+  - <u>Notes</u>: This recommendation is a bit outdated, but might be useful info for someone idk. I figured I'd at least list the exact SSD that worked for me in the LCD model.<br><br>
+  One thing you could do to save money pre-OLED was buy the LCD Deck model that came with 64GB of storage. It didn't have an SSD installed like the other models. You could save $150 or so by just installing your own. Plus, there were no 1TB models, so you saved money AND got more internal storage than you could buy otherwise. It seems there are no models that come with no internal SSD these days and the 1TB model is only $100 more than the 512GB, so you literally wouldn't save money anyway. Alas. MicroSDs are easier anyway. Speaking of,
+
+### SanDisk
+- <u>[**Sandisk microSDXC Extreme Pro 1TB**](https://www.amazon.com/dp/B07RKL6PK9)</u> [$115.87]<br>
+🟡
+  - <u>Type</u>: Functional
+  - <u>Notes</u>: Not all microSDs are created equal. these are the kind you want.
+  
