@@ -1,8 +1,7 @@
 # Steam Deckommendations
 
-Howdy. Since Steam Deck is gaining popularity lately, I thought it might be helpful to put together a list. I often find myself trying to decide which few products to point people towards. Now, I can just send this list. :3
-
-I spent a lot of time researching & sorting through Steam Deck products & modifications when I bought my first one in March 2023. I did quite a few modifications to that LCD model before upgrading as soon as the OLED models came out that November.
+Howdy. I spent a lot of time researching & sorting through Steam Deck products & modifications when I bought an LCD model in March 2023. I did quite a few modifications to it before upgrading as soon as the OLED models came out that November.<br><br>
+Since Steam Deck is gaining popularity lately, I thought it might be helpful to put together a list. I often find myself trying to decide which few products to point people towards. Now, I can just send this list. :3
 
 ## Notes:
 - I've only listed **products I've personally tried**.
@@ -65,7 +64,7 @@ All products are compatible for both OLED & non-OLED models of Steam Deck unless
 🟢 If you plan on playing on a TV ever.  
 ⚫ If you only ever expect to play handheld.
 <br><br>
-  - <u>Notes</u>: Watched some videos benchmarking various metrics compared to deck docks. There were pros & cons for all. Official dock's primary pro over 3rd-party docks seemed to be lowest latency for input.
+  - <u>Notes</u>: Watched some videos benchmarking metrics comparing various deck dock performance. There were pros & cons for all. Official dock's primary pro over 3rd-party docks seemed to be lowest latency for input which felt like the most important thing for me.
 <br><br>
 
 ### Deck Buttons
