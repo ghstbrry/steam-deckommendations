@@ -64,11 +64,15 @@ All products are compatible for both OLED & non-OLED models of Steam Deck unless
   - <u>Type</u>: Cosmetic | Functional
   - <u>Notes</u>: Makes it so the deck fits on the official dock with Killswitch on
 
-<div style="text-align: center; font-size: 1.5em; font-weight: bold;">Without Killswitch vs. With Killswitch</div>
-<div style="display: flex; gap: 10px; align-items: center; justify-content: center;">
-  <img src="./pics/steamdeck_pink3.png" alt="steamdeck_pink3" style="max-height: 200px; widtht: auto;"/>
-  <img src="./pics/steamdeck_pink4.png" alt="steamdeck_pink4" style="max-height: 200px; width: auto;"/>
-</div>
+
+<p align="center"><b>Without Killswitch vs. With Killswitch</b></p>
+
+<table>
+  <tr>
+    <td align="center"><img src="./pics/steamdeck_pink3.png" alt="steamdeck_pink3" height="200"/></td>
+    <td align="center"><img src="./pics/steamdeck_pink4.png" alt="steamdeck_pink4" height="200"/></td>
+  </tr>
+</table>
 
 <div style="text-align: center; font-size: 1.5em; font-weight: bold;">Back + Kickstand</div>
 <div style="display: flex; justify-content: center; margin-top: 10px;">
