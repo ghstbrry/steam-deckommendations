@@ -1,7 +1,12 @@
 # Steam Deckommendations
 
 Howdy. I spent a lot of time researching & sorting through Steam Deck products & modifications when I bought an LCD model in March 2023. I did quite a few modifications to it before upgrading as soon as the OLED models came out that November.<br><br>
-Since Steam Deck is gaining popularity lately, I thought it might be helpful to put together a list. I often find myself trying to decide which few products to point people towards. Now, I can just send this list. :3
+Since Steam Deck is gaining popularity lately, I thought it might be helpful to put together a list. I often find myself trying to decide which few products to point people towards. Now, I can just send this list.
+
+<div style="text-align: center; font-size: 1.5em; font-weight: bold;">Abaddon Approved :3</div>
+<div style="display: flex; justify-content: center; margin-top: 10px;">
+  <img src="./pics/steamdeck_pink.png" alt="steamdeck_pink" style="max-width: 400px; height: auto;"/>
+</div>
 
 ## Notes:
 - I've only listed **products I've personally tried**.
@@ -59,6 +64,18 @@ All products are compatible for both OLED & non-OLED models of Steam Deck unless
   - <u>Type</u>: Cosmetic | Functional
   - <u>Notes</u>: Makes it so the deck fits on the official dock with Killswitch on
 
+<div style="text-align: center; font-size: 1.5em; font-weight: bold;">Without Killswitch vs. With Killswitch</div>
+<div style="display: flex; gap: 10px; align-items: center; justify-content: center;">
+  <img src="./pics/steamdeck_pink3.png" alt="steamdeck_pink3" style="max-height: 200px; widtht: auto;"/>
+  <img src="./pics/steamdeck_pink4.png" alt="steamdeck_pink4" style="max-height: 200px; width: auto;"/>
+</div>
+
+<div style="text-align: center; font-size: 1.5em; font-weight: bold;">Back + Kickstand</div>
+<div style="display: flex; justify-content: center; margin-top: 10px;">
+  <img src="./pics/steamdeck_back.png" alt="steamdeck_back" style="max-width: 400px; height: auto;"/>
+</div>
+
+---
 ### Valve
 - <u>[**Steam Deck Dock**](https://store.steampowered.com/steamdeckdock)</u> [$79.00]<br>
 🟢 If you plan on playing on a TV ever.  
@@ -66,6 +83,8 @@ All products are compatible for both OLED & non-OLED models of Steam Deck unless
 <br><br>
   - <u>Notes</u>: Watched some videos benchmarking metrics comparing various deck dock performance. There were pros & cons for all. Official dock's primary pro over 3rd-party docks seemed to be lowest latency for input which felt like the most important thing for me.
 <br><br>
+
+---
 
 ### Deck Buttons
 - <u>[**Replacement Button Sets**](https://deckbuttons.com/collections/all-button-sets)</u> [$39.99 - $65.00]<br>
@@ -81,6 +100,17 @@ All products are compatible for both OLED & non-OLED models of Steam Deck unless
   - <u>Type</u>: Cosmetic | Functional
   - <u>Notes</u>: Highly recommend these. They look cool & they add a super nice sensory feeling to the trackpads/back grips that's completely different depending on what pattern you get.
 
+<div style="text-align: center; font-size: 1.5em; font-weight: bold;">Glow Deck Buttons + TouchProtects</div>
+<div style="display: flex; gap: 10px; align-items: center; justify-content: center;">
+  <img src="./pics/steamdeck_black.png" alt="steamdeck_black" style="max-width: 250px; height: auto;"/>
+  <img src="./pics/steamdeck_glow.png" alt="steamdeck_glow" style="max-width: 250px; height: auto;"/>
+</div>
+<div style="text-align: center; font-size: 1.5em; font-weight: bold;">Sprinkles!</div>
+<div style="display: flex; gap: 10px; align-items: center; justify-content: center;">
+  <img src="./pics/steamdeck_right.png" alt="steamdeck_right" style="max-width: 250px; height: auto;"/>
+</div>
+
+---
 ### Baseus
 - <u>[**Power Bank 65W 20000mAh**](https://www.baseus.com/products/adaman-power-bank-65w-20000mah)</u> [$49.99]<br>
 🟢  
@@ -108,11 +138,32 @@ All products are compatible for both OLED & non-OLED models of Steam Deck unless
   - <u>Type</u>: Functional
   - <u>Notes</u>: Comes with magnet adhesive thing. Adhesive side of magnet thing sticks to back of phone. Magnet side sticks to circle end of Phone Mount. other side of Phone Mount attaches to bottom of gaming pillow (or back of Deck). now you watch Subway Surfers while you play Fortnite. may god have mercy on your rotten soul.
 
+<div style="text-align: center; font-size: 1.5em; font-weight: bold;">Mechanism Pillow + Phone Mount</div>
+<div style="display: flex; gap: 10px; align-items: center; justify-content: center;">
+  <img src="./pics/steamdeck_pillow-back.png" alt="steamdeck_pillow-back" style="height: 300px; width: auto;"/>
+  <img src="./pics/steamdeck_pillowphone.png" alt="steamdeck_pillowphone" style="height: 300px; width: auto;"/>
+</div>
+<div style="text-align: center; font-size: 1.5em; font-weight: bold;">Killswitch + Phone Mount</div>
+<div style="display: flex; gap: 10px; align-items: center; justify-content: center;">
+  <img src="./pics/steamdeck_phone-front.png" alt="steamdeck_phone-front" style="max-width: 300px; height: auto;"/>
+  <img src="./pics/steamdeck_phone-back.png" alt="steamdeck_phone-back" style="max-width: 300px; height: auto;"/>
+</div>
+
+---
+
 ### iFixIt
 - <u>[**Essential Electronics Toolkit**](https://www.ifixit.com/products/essential-electronics-toolkit)</u> [$29.95]<br>
 🔴
   - <u>Type</u>: Functional | Modification
   - <u>Notes</u>: If you get any of the things that require you to open up the Deck, you want this. I still don't have a nice big plastic spatula thing and I curse myself every day for it.
+
+<div style="text-align: center; font-size: 1.5em; font-weight: bold;">Deck Guts</div>
+<div style="display: flex; gap: 10px; align-items: center; justify-content: center;">
+  <img src="./pics/steamdeck_guts1.png" alt="steamdeck_guts1-front" style="max-height: 300px; width: auto;"/>
+  <img src="./pics/steamdeck_guts2.png" alt="steamdeck_guts2" style="max-height: 300px; width: auto;"/>
+</div>
+
+---
 
 ### JSAUX
 
@@ -131,6 +182,14 @@ The big drawback is if you keep your Deck in a case like the Killswitch 100% of 
 <br><br>
 **However**, in my opinion, the best part about this isn't the back plate at all, but the extended back button mods. These felt soooo nice. If you have an LCD model, I'd recommend. They were compatible with Killswitch. I wish they sold these separately in an OLED compatible model.
 
+<div style="text-align: center; font-size: 1.5em; font-weight: bold;">Transparent Backplate</div>
+<div style="display: flex; gap: 10px; align-items: center; justify-content: center;">
+  <img src="./pics/steamdeck_backplate1.png" alt="steamdeck_backplate1" style="max-height: 300px; width: auto;"/>
+  <img src="./pics/steamdeck_backplate2.png" alt="steamdeck_backplate2" style="max-height: 300px; width: auto;"/>
+</div>
+
+---
+
 ### Sabrent
 - <u>[**Rocket 2230 1TB NVMe SSD**](https://sabrent.com/products/sb-2130-1tb)</u> [$99.99]<br>
 🔴
@@ -139,9 +198,10 @@ The big drawback is if you keep your Deck in a case like the Killswitch 100% of 
   - <u>Notes</u>: This recommendation is a bit outdated, but might be useful info for someone idk. I figured I'd at least list the exact SSD that worked for me in the LCD model.<br><br>
   One thing you could do to save money pre-OLED was buy the LCD Deck model that came with 64GB of storage. It didn't have an SSD installed like the other models. You could save $150 or so by just installing your own. Plus, there were no 1TB models, so you saved money AND got more internal storage than you could buy otherwise. It seems there are no models that come with no internal SSD these days and the 1TB model is only $100 more than the 512GB, so you literally wouldn't save money anyway. Alas. MicroSDs are easier anyway. Speaking of,
 
+---
+
 ### SanDisk
 - <u>[**Sandisk microSDXC Extreme Pro 1TB**](https://www.amazon.com/dp/B07RKL6PK9)</u> [$115.87]<br>
 🟡
   - <u>Type</u>: Functional
   - <u>Notes</u>: Not all microSDs are created equal. these are the kind you want.
-  
