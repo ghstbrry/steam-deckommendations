@@ -161,11 +161,14 @@ All products are compatible for both OLED & non-OLED models of Steam Deck unless
   - <u>Type</u>: Functional | Modification
   - <u>Notes</u>: If you get any of the things that require you to open up the Deck, you want this. I still don't have a nice big plastic spatula thing and I curse myself every day for it.
 
-<div style="text-align: center; font-size: 1.5em; font-weight: bold;">Deck Guts</div>
-<div style="display: flex; gap: 10px; align-items: center; justify-content: center;">
-  <img src="./pics/steamdeck_guts1.png" alt="steamdeck_guts1-front" style="max-height: 300px; width: auto;"/>
-  <img src="./pics/steamdeck_guts2.png" alt="steamdeck_guts2" style="max-height: 300px; width: auto;"/>
-</div>
+<p align="center"><b>Deck Guts</b></p>
+
+<table>
+  <tr>
+    <td align="center"><img src="./pics/steamdeck_guts1.png" alt="steamdeck_guts1-front" height="300"/></td>
+    <td align="center"><img src="./pics/steamdeck_guts2.png" alt="steamdeck_guts2" height="300"/></td>
+  </tr>
+</table>
 
 ---
 
@@ -186,11 +189,13 @@ The big drawback is if you keep your Deck in a case like the Killswitch 100% of 
 <br><br>
 **However**, in my opinion, the best part about this isn't the back plate at all, but the extended back button mods. These felt soooo nice. If you have an LCD model, I'd recommend. They were compatible with Killswitch. I wish they sold these separately in an OLED compatible model.
 
-<div style="text-align: center; font-size: 1.5em; font-weight: bold;">Transparent Backplate</div>
-<div style="display: flex; gap: 10px; align-items: center; justify-content: center;">
-  <img src="./pics/steamdeck_backplate1.png" alt="steamdeck_backplate1" style="max-height: 300px; width: auto;"/>
-  <img src="./pics/steamdeck_backplate2.png" alt="steamdeck_backplate2" style="max-height: 300px; width: auto;"/>
-</div>
+<p align="center"><b>Transparent Backplate</b></p>
+<table>
+  <tr>
+    <td align="center"><img src="./pics/steamdeck_backplate1.png" alt="steamdeck_backplate1" height="300"/></td>
+    <td align="center"><img src="./pics/steamdeck_backplate2.png" alt="steamdeck_backplate2" height="300"/></td>
+  </tr>
+</table>
 
 ---
 
